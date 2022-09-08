@@ -1,0 +1,116 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #1b1a1a;
+}
+.bio-mg{
+    margin: 0 auto;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 190px;
+}
+.nav-link{
+    width: 90px;
+    border: #ffffff 0px solid;
+    border-radius: 30px;
+    margin: 5px;
+    text-align: center;
+}
+.nav-link:hover{
+    background-color: rgb(86, 86, 86);
+    
+    
+}
+.bio-mg img{
+    width: 330px;
+    border: #073bab 5px solid ;
+    border-radius: 50%;
+    padding: 10px;
+}
+.bio-mg h1{
+    color: #fff;
+    text-align: center;
+    font-size: 37px;
+}
+.bio-mg h2{
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+}
+.photo-html{
+    width: 80%;
+    margin-top: 60%;
+}
+.photo-css{
+    width: 80%;
+    margin-top: 60%;
+}
+.photo-bootstrap{
+    width: 80%;
+    margin-top: 60%;
+}
+.photo-js{
+    width: 80%;
+    margin-top: 60%;
+}
+
+#skills{
+    background-image: url(photo/155-1552359_white-dots-transparent-background-polka-dot-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-img{
+    width: 80%;
+}
+.siklls-card-container{
+    margin: 150px 200px 0px 200px;
+    background-color: #282828;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 200px;
+    border-radius: 30px;
+}
+.text-container h5{
+    font-size: 30px;
+}
+.text-container p{
+    font-size: 25px;
+    margin-top: 20px;
+    text-align: justify;
+}
+.card{
+    margin-to;
+    margin: 200px 600px;
+    margin-bottom: 200px;
+    
+}
+.footer-90{
+    background-color: #282828;
+}
+.img-18{
+    width: 50px;
+    margin-left: 20px;
+}
+.img-19{
+    width: 50px;
+    margin-left: 20px;
+}
+.zir{
+    color:#fff ;
+    background-color: #000000;
+    padding: 12px 24px!important;
+    margin-bottom: 16px!important;
+    margin-top: 20px;
+    position:relative; left: 80%;
+    border-radius: 15px;
+}
